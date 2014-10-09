@@ -1,0 +1,38 @@
+C:\Documents and Settings\irfan\Local Settings\Application Data\Temporary Projects\Student Marks Analysis\bin\Debug\Student Marks Analysis.exe
+C:\Documents and Settings\irfan\Local Settings\Application Data\Temporary Projects\Student Marks Analysis\bin\Debug\Student Marks Analysis.pdb
+C:\Documents and Settings\irfan\Local Settings\Application Data\Temporary Projects\Student Marks Analysis\bin\Debug\Student Marks Analysis.xml
+C:\Documents and Settings\irfan\Local Settings\Application Data\Temporary Projects\Student Marks Analysis\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\irfan\Local Settings\Application Data\Temporary Projects\Student Marks Analysis\obj\x86\Debug\Student_Marks_Analysis.Form1.resources
+C:\Documents and Settings\irfan\Local Settings\Application Data\Temporary Projects\Student Marks Analysis\obj\x86\Debug\Student_Marks_Analysis.Resources.resources
+C:\Documents and Settings\irfan\Local Settings\Application Data\Temporary Projects\Student Marks Analysis\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\irfan\Local Settings\Application Data\Temporary Projects\Student Marks Analysis\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\irfan\Local Settings\Application Data\Temporary Projects\Student Marks Analysis\obj\x86\Debug\Student Marks Analysis.exe
+C:\Documents and Settings\irfan\Local Settings\Application Data\Temporary Projects\Student Marks Analysis\obj\x86\Debug\Student Marks Analysis.xml
+C:\Documents and Settings\irfan\Local Settings\Application Data\Temporary Projects\Student Marks Analysis\obj\x86\Debug\Student Marks Analysis.pdb
+C:\Documents and Settings\irfan\Local Settings\Application Data\Temporary Projects\Student Marks Analysis\obj\x86\Debug\Student_Marks_Analysis.Form2.resources
+C:\Documents and Settings\irfan\my documents\visual studio 2010\Projects\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\Student Marks Analysis.exe
+C:\Documents and Settings\irfan\my documents\visual studio 2010\Projects\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\Student Marks Analysis.xml
+C:\Documents and Settings\irfan\my documents\visual studio 2010\Projects\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\Student Marks Analysis.pdb
+C:\Documents and Settings\irfan\my documents\visual studio 2010\Projects\Student Marks Analysis\Student Marks Analysis\bin\Debug\Student Marks Analysis.exe
+C:\Documents and Settings\irfan\my documents\visual studio 2010\Projects\Student Marks Analysis\Student Marks Analysis\bin\Debug\Student Marks Analysis.pdb
+C:\Documents and Settings\irfan\my documents\visual studio 2010\Projects\Student Marks Analysis\Student Marks Analysis\bin\Debug\Student Marks Analysis.xml
+C:\Documents and Settings\irfan\my documents\visual studio 2010\Projects\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\irfan\my documents\visual studio 2010\Projects\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\Student_Marks_Analysis.Form1.resources
+C:\Documents and Settings\irfan\my documents\visual studio 2010\Projects\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\Student_Marks_Analysis.Form2.resources
+C:\Documents and Settings\irfan\my documents\visual studio 2010\Projects\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\Student_Marks_Analysis.Resources.resources
+C:\Documents and Settings\irfan\my documents\visual studio 2010\Projects\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\irfan\my documents\visual studio 2010\Projects\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\irfan\my documents\visual studio 2010\Projects\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\Student_Marks_Analysis.Form3.resources
+C:\Documents and Settings\irfan\my documents\visual studio 2010\Projects\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\Student_Marks_Analysis.Form21.resources
+F:\soft1\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\Student Marks Analysis.exe
+F:\soft1\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\Student Marks Analysis.xml
+F:\soft1\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\Student Marks Analysis.pdb
+F:\soft1\Student Marks Analysis\Student Marks Analysis\bin\Debug\Student Marks Analysis.exe
+F:\soft1\Student Marks Analysis\Student Marks Analysis\bin\Debug\Student Marks Analysis.pdb
+F:\soft1\Student Marks Analysis\Student Marks Analysis\bin\Debug\Student Marks Analysis.xml
+F:\soft1\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\Student_Marks_Analysis.Form1.resources
+F:\soft1\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\Student_Marks_Analysis.Form2.resources
+F:\soft1\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\Student_Marks_Analysis.Form3.resources
+F:\soft1\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\Student_Marks_Analysis.Form21.resources
+F:\soft1\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\Student_Marks_Analysis.Resources.resources
+F:\soft1\Student Marks Analysis\Student Marks Analysis\obj\x86\Debug\Student Marks Analysis.vbproj.GenerateResource.Cache
